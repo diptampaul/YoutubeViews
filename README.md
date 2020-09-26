@@ -3,6 +3,7 @@
 Before running the Python File make sure you have tor and tor is already running in background. Then run
 
 pip3 install -r requirements.txt
+
 Also we need Geckodriver 0.24.0 : https://github.com/mozilla/geckodriver/releases/tag/v0.24.0
 
 
