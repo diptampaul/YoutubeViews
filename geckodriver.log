@@ -1,0 +1,35 @@
+1601114814538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tycmwzoH1iWs"
+1601114814764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601114814765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601114814765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601114814765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 4565, tid 4565, syscall 315, args 4565 139734444034304 56 0 10 139734444034304.
+Sandbox: seccomp sandbox violation: pid 4593, tid 4593, syscall 315, args 4593 140501127211072 56 0 10 140501127211072.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://4a82d7fc-a30b-46e1-b94d-40240d3fd0e4/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1601114815708	Marionette	INFO	Listening on port 42475
+1601114815741	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: seccomp sandbox violation: pid 4593, tid 4735, syscall 332, args 0 0 0 4095 0 140501016647184.
+1601115027629	Marionette	INFO	Stopped listening on port 42475
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 4593, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-6uO2g7/firefox-esr-68.11.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727

@@ -1,0 +1,10 @@
+GitPython==3.1.7
+importlib-metadata==1.6.0
+PyOpenGL==3.1.5
+pyOpenSSL==19.1.0
+PyQt5==5.15.0
+PySocks==1.7.1
+pytest==4.6.11
+qtwidgets==0.16
+websocket-client==0.57.0
+websockets==8.1
